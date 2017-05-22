@@ -47,5 +47,4 @@ function validateForm(){
      document.getElementById("input-password").value= "";
 
   }
-
 };
